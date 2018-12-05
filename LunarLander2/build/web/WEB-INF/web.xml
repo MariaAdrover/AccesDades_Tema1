@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="3.0" xmlns="http://java.sun.com/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd">
+    <servlet>
+        <servlet-name>ConfiguracionXmlServlet</servlet-name>
+        <servlet-class>servlets.ConfiguracionXmlServlet</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>Configuraciones</servlet-name>
+        <servlet-class>jaxbpackage.Configuraciones</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>JaxbClass</servlet-name>
+        <servlet-class>jaxbpackage.JaxbClass</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ConfiguracionXmlServlet</servlet-name>
+        <url-pattern>/ConfiguracionXmlServlet</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>Configuraciones</servlet-name>
+        <url-pattern>/Configuraciones</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>JaxbClass</servlet-name>
+        <url-pattern>/JaxbClass</url-pattern>
+    </servlet-mapping>
+    <session-config>
+        <session-timeout>
+            30
+        </session-timeout>
+    </session-config>
+    <welcome-file-list>
+        <welcome-file>index.html</welcome-file>
+    </welcome-file-list>
+</web-app>

@@ -1,0 +1,22 @@
+[
+    {
+        "nombre": "a",
+        "nave": "1",
+        "sonido": "on"
+    },
+    {
+        "nombre": "b",
+        "nave": "1",
+        "sonido": "off"
+    },
+    {
+        "nombre": "c",
+        "nave": "2",
+        "sonido": "on"
+    },
+    {
+        "nombre": "d",
+        "nave": "2",
+        "sonido": "off"
+    }
+]

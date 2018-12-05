@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<configuraciones>
+    <configuracion nombre="a">
+        <nave>1</nave>
+        <sonido>on</sonido>
+    </configuracion>
+    <configuracion nombre="b">
+        <nave>1</nave>
+        <sonido>off</sonido>
+    </configuracion>
+    <configuracion nombre="c">
+        <nave>2</nave>
+        <sonido>on</sonido>
+    </configuracion>
+    <configuracion nombre="d">
+        <nave>2</nave>
+        <sonido>off</sonido>
+    </configuracion>
+    <configuracion nombre="z">
+        <nave>1</nave>
+        <sonido>on</sonido>
+    </configuracion>
+    <configuracion nombre="x">
+        <nave>2</nave>
+        <sonido>off</sonido>
+    </configuracion>
+    <configuracion nombre="CONFI">
+        <nave>2</nave>
+        <sonido>off</sonido>
+    </configuracion>
+    <configuracion nombre="aaaa">
+        <nave>2</nave>
+        <sonido>on</sonido>
+    </configuracion>
+    <configuracion nombre="qqqq">
+        <nave>1</nave>
+        <sonido>on</sonido>
+    </configuracion>
+</configuraciones>

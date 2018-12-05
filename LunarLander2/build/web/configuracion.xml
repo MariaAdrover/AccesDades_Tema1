@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<configuraciones>	
+    <configuracion nombre="1">
+	<nave>1</nave>
+	<sonido>facil</sonido>
+    </configuracion>
+    <configuracion nombre="2">
+	<nave>1</nave>
+	<sonido>dificil</sonido>
+    </configuracion>
+    <configuracion nombre="3">
+	<nave>2</nave>
+	<sonido>facil</sonido>
+    </configuracion>
+    <configuracion nombre="4">
+	<nave>2</nave>
+	<sonido>dificil</sonido>
+    </configuracion>	
+</configuraciones>
