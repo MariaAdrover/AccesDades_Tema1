@@ -1,4 +1,4 @@
-### AccesDades_Tema1
+### Acces a Dades: activitats del Tema1
 > * Activitat 2: LunarLander1
 > * Activitat 3: LunarLander2
 > * Activitat 4: LunarLander3
